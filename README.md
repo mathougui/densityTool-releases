@@ -2,6 +2,10 @@
 
 # V0.2.8
 
+Add english translations, Density logo and flashing buttons
+
+# V0.2.8
+
 Add modal for shoot and rest fluid. Add about-window, graph and buse info
 
 # V0.2.7
