@@ -1,6 +1,10 @@
 # densityTool-releases
 
-# V0.2.8
+# V0.3.0
+
+Add new english translations
+
+# V0.2.9
 
 Add english translations, Density logo and flashing buttons
 
