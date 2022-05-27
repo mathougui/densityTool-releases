@@ -1,5 +1,9 @@
 # densityTool-releases
 
+# V0.3.1
+
+Add fix logs export formating and export folder (now on desktop)
+
 # V0.3.0
 
 Add new english translations
